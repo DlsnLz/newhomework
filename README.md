@@ -1,7 +1,8 @@
 # newhomework
 end homework
 
-repositorio contenedor de la nueca tarea
+repositorio contenedor de la nueva tarea
 
-entragada por Dilson lazaro 
+
+entregada por Dilsón lázaro 
 profesor carlos vera
